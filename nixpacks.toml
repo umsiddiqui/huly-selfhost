@@ -1,0 +1,5 @@
+[phases.build]
+run = "./setup.sh"
+
+[phases.start]
+run = "./nginx.sh"
